@@ -8,7 +8,7 @@ There are currently two parameters:
 **pURL** 
 The remote path of the single-byte encoded file
 
-**XOREncodeKey **
+**XOREncodeKey**
 The value of the XOR Encoding
 
 ```PowerShell
